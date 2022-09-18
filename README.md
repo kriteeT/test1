@@ -19,8 +19,7 @@ optional run test with simutation browser
 ```
 npx cypress open
 ```
-click E2e Testing -> Electron -> Start E2E Testing in Electron
-click tab 'Specs' -> click 'job1.cy.js'
+click E2e Testing -> Electron -> Start E2E Testing in Electron ->  tab 'Specs' -> click 'job1.cy.js'
 
 ## Experience and knowledge
 
@@ -37,8 +36,7 @@ A test case is a set of actions performed on a system to determine if it satisfi
 
 **Q:** How do you design the testing process in an Agile/Waterfall environment based on your experience?
 **A:** In my experience, I have only done unit test and end to end test.
-##
-##
+
 **Q:** How do you handle or minimize regression tests under a tight timeline?
 **A:** Design Efficient Tests and start when the application is stable enough to automate.
 
