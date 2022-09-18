@@ -1,6 +1,12 @@
 # Quality Assurance Engineer Test
 
 ## Requirement analysis and test cases
+- As a customer I would like to browse through the website to see products that are in each category. 
+- As a customer I would quickly access the particular product by searching. 
+- As a customer I would add products to the shopping cart and be able to continue shopping. 
+- As a customer I would like to update product quantities in the shopping cart. 
+- As a customer I would like to checkout and  it requires membership. 
+- As a customer I would like to choose the payment method and add a new credit card.
 how to install project
 run test with headless browser
 ```
